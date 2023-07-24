@@ -69,7 +69,6 @@
                         </application>
                     </applications>
                     <valuemap>
-                        <name>Service state</name>
                     </valuemap>
                     <logtimefmt/>
                 </item>
