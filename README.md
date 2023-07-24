@@ -25,11 +25,11 @@ The following steps need to be performed on all zabbix servers (or proxy servers
 
 **CentOS, RHEL**
 ```console
-yum install zabbix-sender
+yum install zabbix-sender at
 ```
-**Debian, Ubuntu**
+**Debian, Ubuntu** 
 ```console
-apt-get install zabbix-sender
+apt-get install zabbix-sender at
 ```
 
 **Clone the repository**
